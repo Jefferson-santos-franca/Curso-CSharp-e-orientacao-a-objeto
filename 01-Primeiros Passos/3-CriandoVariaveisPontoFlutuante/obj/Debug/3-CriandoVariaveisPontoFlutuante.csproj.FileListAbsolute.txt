@@ -1,0 +1,8 @@
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

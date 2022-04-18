@@ -1,0 +1,8 @@
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\bin\Debug\8-Condicionas2.exe.config
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\bin\Debug\8-Condicionas2.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\bin\Debug\8-Condicionas2.pdb
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\obj\Debug\8-Condicionas2.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\obj\Debug\8-Condicionas2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\obj\Debug\8-Condicionas2.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\obj\Debug\8-Condicionas2.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\8-Condicionas2\obj\Debug\8-Condicionas2.pdb

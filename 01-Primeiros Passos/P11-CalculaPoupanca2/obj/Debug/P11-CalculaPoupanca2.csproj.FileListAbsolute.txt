@@ -1,0 +1,8 @@
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe.config
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.pdb
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\obj\Debug\P10-CalculaPolpanca.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\obj\Debug\P10-CalculaPolpanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\obj\Debug\P10-CalculaPolpanca.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\bin\Debug\10-CalculaPolpa.exe.config
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\bin\Debug\10-CalculaPolpa.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\bin\Debug\10-CalculaPolpa.pdb
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\obj\Debug\10-CalculaPolpa.exe
+C:\Users\Jeff&Lav\source\repos\1-PrimeiroProjeto\10-CalculaPolpa\obj\Debug\10-CalculaPolpa.pdb

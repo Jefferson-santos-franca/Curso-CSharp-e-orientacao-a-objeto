@@ -1,0 +1,8 @@
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\bin\Debug\01-ByteBanck.exe.config
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\bin\Debug\01-ByteBanck.exe
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\bin\Debug\01-ByteBanck.pdb
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\obj\Debug\01-ByteBanck.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\obj\Debug\01-ByteBanck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\obj\Debug\01-ByteBanck.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\obj\Debug\01-ByteBanck.exe
+C:\Users\Jeff&Lav\source\repos\ByteBanck\01-ByteBanck\obj\Debug\01-ByteBanck.pdb
