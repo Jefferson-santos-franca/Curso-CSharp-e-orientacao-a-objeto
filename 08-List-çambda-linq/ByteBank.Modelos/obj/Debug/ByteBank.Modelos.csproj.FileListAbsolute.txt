@@ -1,0 +1,7 @@
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Jeff&Lav\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
